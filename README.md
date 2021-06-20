@@ -1,2 +1,4 @@
 # abyss-gazer
-- for people who try new things
+a website for people who try new things.
+
+this looks super cool
